@@ -9,7 +9,7 @@
 
 ## Contributing
 
-The project does not accept standalone PRs. Only PRs with an aossicated Issue will not be auto-rejected. 
+The project does not accept standalone PRs. Only PRs with an associated Issue will not be auto-rejected. 
 
 ## Support
 
